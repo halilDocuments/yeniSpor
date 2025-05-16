@@ -1,0 +1,1 @@
+expo javacirpt kullanılarak geliştirilimiş spor uygulaması veri tabanı yok veriler local stroge üzerinden listeler galinde gelmekte daha çok eksikleri var içerisinde antreman programı ve beslenme programı yapabileceğiniz ekranlar mevcut 
